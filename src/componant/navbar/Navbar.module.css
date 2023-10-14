@@ -1,0 +1,20 @@
+ul{
+    display: flex;
+    list-style: none;
+    margin-bottom: 12px;
+    padding: 0 !important;
+    justify-content: center;
+}
+
+i{
+    font-size: 1.125rem;
+    cursor: pointer;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+}
+.btn{
+    margin: 60px;
+    background-color: black;
+}
+
